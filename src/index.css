@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Smooth scroll */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Optional: Font styling or overrides */
+body {
+  font-family: "Inter", sans-serif;
+}
